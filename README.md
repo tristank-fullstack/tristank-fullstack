@@ -38,7 +38,6 @@ Windows · Linux
 *(Pronto iré subiendo más repositorios)*
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tristank-fullstack&repo=HearMe)](https://github.com/tristank-fullstack/HearMe)
-  Aplicación Android en Kotlin con integración de Firebase y APIs para transcripción de audio.
 
 ---
 
