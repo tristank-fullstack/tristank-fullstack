@@ -1,6 +1,7 @@
 # 👋 Hola, soy Tristan Kempes
 
 🎓 Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)** 
+
 🎓 Técnico medio en **Sistemas Microinformáticos y Redes (SMR)**
 💻 Desarrollador **Full Stack** con experiencia en soporte IT, gestión de inventario digital y creación de contenido web con SEO.  
 📍 Madrid, España  
