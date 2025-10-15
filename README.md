@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hola, soy Tristan Kempes
 
-<!--
-**tristank-fullstack/tristank-fullstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+💻 Desarrollador **Full Stack** con experiencia en soporte IT, gestión de inventario digital y creación de contenido web con SEO.  
+📍 Madrid, España  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+Soy un desarrollador apasionado por el **desarrollo multiplataforma**, la **gestión de bases de datos** y la creación de soluciones prácticas.  
+Me motiva aprender nuevas tecnologías y trabajar en equipo para resolver problemas complejos.  
+
+Actualmente sigo ampliando mis conocimientos en **Java, Kotlin, Python, SQL, Docker y MongoDB**, mientras desarrollo proyectos personales y académicos.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+**Lenguajes de programación:**  
+Java · Kotlin · Python · SQL  
+
+**Web & Frameworks:**  
+HTML · CSS · JavaFX · WordPress · Docker Compose  
+
+**Bases de datos:**  
+MySQL · MongoDB  
+
+**Entornos & IDEs:**  
+Android Studio · IntelliJ · NetBeans · Visual Studio · VS Code  
+
+**Otros:**  
+Odoo · Snipe-IT · Pipedrive · Excel avanzado  
+Windows · Linux  
+
+---
+
+## 📂 Proyectos destacados
+*(Pronto iré subiendo más repositorios)*
+
+
+
+---
+
+## 🌐 Conecta conmigo
+- [LinkedIn](https://www.linkedin.com/in/tristan-kempes-ares-685270333)  
+- 📧 Email: **tristankempes@gmail.com**
+
+---
+
+✨ *“Siempre aprendiendo, siempre construyendo.”*
