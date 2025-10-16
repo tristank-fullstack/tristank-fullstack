@@ -41,7 +41,7 @@ Windows · Linux
 ## 🌍 Ecosistema HearMe
 
 [![App Android](https://img.shields.io/badge/HearMe-App-blue?logo=android)](https://github.com/tristank-fullstack/HearMe)  
-Aplicación Android en **Kotlin** con Firebase que permite grabar audios y enviarlos a la nube para su posterior transcripción.
+Aplicación Android en **Kotlin** con Firebase que permite grabar audios y subirlos de forma geolocalizada a locales (bares, restaurantes, etc.), los cuales luego se envían a la API para su transcripción automática a texto.
 
 [![API Backend](https://img.shields.io/badge/HearMe-API-green?logo=java)](https://github.com/tristank-fullstack/HearMe-API)  
 API en **Java (Spring Boot)** que recibe los audios de la app, los procesa y devuelve el texto transcrito de forma automática.
