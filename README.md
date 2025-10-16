@@ -36,7 +36,6 @@ Windows · Linux
 ---
 
 ## 📂 Proyectos destacados
-*(Pronto iré subiendo más repositorios)*
 
 ## 🌍 Ecosistema HearMe
 
@@ -47,6 +46,7 @@ Aplicación Android en **Kotlin** con Firebase que permite grabar audios y subir
 API en **Java (Spring Boot)** que recibe los audios de la app, los procesa y devuelve el texto transcrito de forma automática.
 
 
+*(Pronto iré subiendo más repositorios)*
 ---
 
 ## 🌐 Conecta conmigo
