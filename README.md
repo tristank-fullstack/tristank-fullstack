@@ -40,11 +40,8 @@ Windows · Linux
 
 ## 🚀 Ecosistema HearMe
 
-- **[📱 HearMe (App Android)](https://github.com/tristank-fullstack/HearMe)**  
-  Aplicación Android desarrollada en Kotlin con Firebase Authentication y almacenamiento en la nube.
-
-- **[⚙️ HearMe-API (Backend)](https://github.com/tristank-fullstack/HearMe-API)**  
-  API en Java (Spring Boot) que procesa los audios enviados desde la app y los convierte en texto.
+[![App Android](https://img.shields.io/badge/HearMe-App-blue?logo=android)](https://github.com/tristank-fullstack/HearMe)
+[![API Backend](https://img.shields.io/badge/HearMe-API-green?logo=java)](https://github.com/tristank-fullstack/HearMe-API)
 
 
 ---
