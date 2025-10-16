@@ -38,10 +38,35 @@ Windows · Linux
 ## 📂 Proyectos destacados
 *(Pronto iré subiendo más repositorios)*
 
-## 🚀 Ecosistema HearMe
+## 🌍 Ecosistema HearMe
+
+El proyecto **HearMe** está compuesto por dos piezas que trabajan juntas:  
+la **App Android** donde los usuarios graban sus audios, y la **API Backend** que procesa y transcribe esos audios a texto.
 
 [![App Android](https://img.shields.io/badge/HearMe-App-blue?logo=android)](https://github.com/tristank-fullstack/HearMe)
 [![API Backend](https://img.shields.io/badge/HearMe-API-green?logo=java)](https://github.com/tristank-fullstack/HearMe-API)
+
+---
+
+### 📱 HearMe (App Android)
+Aplicación desarrollada en **Kotlin** con integración de **Firebase** (autenticación y almacenamiento).  
+Permite a los usuarios grabar audios y enviarlos al backend para su transcripción.  
+- 🔐 Login con Firebase Authentication  
+- 🎙️ Grabación y envío de audios  
+- ☁️ Almacenamiento en la nube  
+
+👉 [Ver repositorio de la App](https://github.com/tristank-fullstack/HearMe)
+
+---
+
+### ⚙️ HearMe-API (Backend)
+API desarrollada en **Java + Spring Boot**, desplegada como servicio backend.  
+Recibe los audios de la app, los procesa y devuelve la transcripción en texto.  
+- 🔑 Seguridad con Firebase  
+- 📝 Endpoints REST para procesar audios y reseñas  
+- ⚡ Arquitectura escalable con Maven  
+
+👉 [Ver repositorio de la API](https://github.com/tristank-fullstack/HearMe-API)
 
 
 ---
