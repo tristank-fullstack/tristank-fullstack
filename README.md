@@ -38,7 +38,14 @@ Windows · Linux
 ## 📂 Proyectos destacados
 *(Pronto iré subiendo más repositorios)*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tristank-fullstack&repo=HearMe)](https://github.com/tristank-fullstack/HearMe)
+## 🚀 Ecosistema HearMe
+
+- **[📱 HearMe (App Android)](https://github.com/tristank-fullstack/HearMe)**  
+  Aplicación Android desarrollada en Kotlin con Firebase Authentication y almacenamiento en la nube.
+
+- **[⚙️ HearMe-API (Backend)](https://github.com/tristank-fullstack/HearMe-API)**  
+  API en Java (Spring Boot) que procesa los audios enviados desde la app y los convierte en texto.
+
 
 ---
 
