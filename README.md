@@ -45,6 +45,20 @@ Aplicación Android en **Kotlin** con Firebase que permite grabar audios y subir
 [![API Backend](https://img.shields.io/badge/HearMe-API-green?logo=java)](https://github.com/tristank-fullstack/HearMe-API)  
 API en **Java (Spring Boot)** que recibe los audios de la app, los procesa y devuelve el texto transcrito de forma automática.
 
+---
+
+## 💻 Portfolio Web
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Web-0f172a?logo=vercel&logoColor=white)](https://tu-dominio.vercel.app)  
+Mi portfolio personal desarrollado con **Next.js + Tailwind CSS**, donde muestro mis habilidades, proyectos y formas de contacto.  
+
+Características:
+- Diseño **responsive** adaptado a móvil, tablet y escritorio.  
+- **Footer inteligente**: en móvil solo muestra contacto, en escritorio incluye más información.  
+- Optimización de imágenes con `next/image`.  
+- Desplegado en **Vercel** con dominio personalizado.  
+
+---
 
 *(Pronto iré subiendo más repositorios)*
 ---
