@@ -49,7 +49,9 @@ API en **Java (Spring Boot)** que recibe los audios de la app, los procesa y dev
 
 ## 💻 Portfolio Web
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Web-0f172a?logo=vercel&logoColor=white)](https://portfolio-web-rho-rust.vercel.app)  
+[![Portfolio Online](https://img.shields.io/badge/Portfolio-Web-0f172a?logo=vercel&logoColor=white)](https://tu-dominio.vercel.app)  
+[![Código en GitHub](https://img.shields.io/badge/Repo-GitHub-black?logo=github)](https://github.com/tristank-fullstack/Portfolio-web)  
+
 Mi portfolio personal desarrollado con **Next.js + Tailwind CSS**, donde muestro mis habilidades, proyectos y formas de contacto.  
 
 Características:
