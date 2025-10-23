@@ -58,7 +58,6 @@ Características:
 - Optimización de imágenes con `next/image`.  
 - Desplegado en **Vercel** con dominio personalizado.  
 
----
 
 *(Pronto iré subiendo más repositorios)*
 ---
