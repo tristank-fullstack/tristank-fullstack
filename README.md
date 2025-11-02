@@ -18,7 +18,7 @@ Actualmente sigo ampliando mis conocimientos en **Java, Kotlin, Python, SQL, Doc
 ## 🛠️ Tecnologías y herramientas
 
 **Lenguajes de programación:**  
-Java · Kotlin · Python · SQL  
+Java · Kotlin · Python · SQL  - JavaScript
 
 **Web & Frameworks:**  
 HTML · CSS · JavaFX · WordPress · Docker Compose  
